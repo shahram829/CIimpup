@@ -1,13 +1,75 @@
-# CLP - Clean Planet Token
+---
 
-عملیات نجات خانه ما زمین!
+🌱 Climpup Whitepaper (English Version - Ready for PDF)
 
-هر 100 تراکنش = کاشت 1 درخت
+🧭 Project Slogan
 
-این پروژه با هدف توسعه محیط زیست و تشویق به کمک‌های مردمی ایجاد شده است.
+"One Tree for Every 100 Transactions – Save the Planet with Climpup"
 
-- شبکه: Polygon (MATIC)
-- عرضه کل: 50 میلیارد توکن
-- قرارداد: [آدرس قراردادت رو اینجا بذار]
 
-همراه ما باشید در مسیر سبز فردا.
+---
+
+🌍 About Climpup
+
+Climpup is a green, purpose-driven crypto token built on the Polygon blockchain. Its mission is to link financial activity with climate action by allocating funds to plant one tree for every 100 transactions made with the token.
+
+
+---
+
+🎯 Goals
+
+Promote eco-friendly blockchain usage
+
+Make each transaction count toward reforestation
+
+Raise awareness about climate change through decentralized finance
+
+Build a community-driven environmental movement
+
+
+
+---
+
+🔗 Token Specifications
+
+Token Name: Climpup
+
+Symbol: CLIM
+
+Blockchain: Polygon (MATIC)
+
+Token Standard: ERC-20
+
+Total Supply: 50,000,000,000 (50 Billion)
+
+Initial Supply for ICO: 2,000,000,000
+
+Initial Price per Token: $0.0001
+
+Smart Contract Address: [Insert your PolygonScan address here]
+
+
+
+---
+
+📅 Timeline
+
+ICO Start Date: May 29, 2025
+
+ICO End Date: June 29, 2025
+
+Official Market Listing Date: July 5, 2025
+
+
+
+---
+
+🌐 Official Links
+
+Website: https://shahram829.github.io/CIimpup/
+
+Twitter: https://twitter.com/Climpup123321
+
+GitHub: https://github.com/shahram829/CIimpup
+
+Official Email: shahrammousavi12345@gmail.com
