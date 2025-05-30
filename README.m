@@ -1,75 +1,59 @@
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Climpup - Save the Planet</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      color: #333;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.3em;
+    }
+    p {
+      font-size: 1.2em;
+      margin: 10px 0;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .logo {
+      max-width: 200px;
+      margin: 30px auto;
+    }
+    .btn {
+      background-color: #28a745;
+      color: white;
+      padding: 10px 20px;
+      display: inline-block;
+      margin-top: 20px;
+      border-radius: 8px;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://i.postimg.cc/N0wk8tck/undefined-Imgur-1.png" alt="Climpup Logo" class="logo"/>
+  <h1>Climpup</h1>
+  <p>🌱 Save the Planet - Plant a Tree Every 100 Transactions</p>
+  <p>🔥 Fighting Climate Change, Forest Fires, and Deforestation</p>
 
-🌱 Climpup Whitepaper (English Version - Ready for PDF)
-
-🧭 Project Slogan
-
-"One Tree for Every 100 Transactions – Save the Planet with Climpup"
-
-
----
-
-🌍 About Climpup
-
-Climpup is a green, purpose-driven crypto token built on the Polygon blockchain. Its mission is to link financial activity with climate action by allocating funds to plant one tree for every 100 transactions made with the token.
-
-
----
-
-🎯 Goals
-
-Promote eco-friendly blockchain usage
-
-Make each transaction count toward reforestation
-
-Raise awareness about climate change through decentralized finance
-
-Build a community-driven environmental movement
-
-
-
----
-
-🔗 Token Specifications
-
-Token Name: Climpup
-
-Symbol: CLIM
-
-Blockchain: Polygon (MATIC)
-
-Token Standard: ERC-20
-
-Total Supply: 50,000,000,000 (50 Billion)
-
-Initial Supply for ICO: 2,000,000,000
-
-Initial Price per Token: $0.0001
-
-Smart Contract Address: [Insert your PolygonScan address here]
-
-
-
----
-
-📅 Timeline
-
-ICO Start Date: May 29, 2025
-
-ICO End Date: June 29, 2025
-
-Official Market Listing Date: July 5, 2025
-
-
-
----
-
-🌐 Official Links
-
-Website: https://shahram829.github.io/CIimpup/
-
-Twitter: https://twitter.com/Climpup123321
-
-GitHub: https://github.com/shahram829/CIimpup
-
-Official Email: shahrammousavi12345@gmail.com
+  <a class="btn" href="https://www.dropbox.com/scl/fi/s85q8ugz0oz8w4vl9sj9h/new_document.pdf?rlkey=67jkaqec7fufzty1ce3jj4yro&st=1c5hra0k&dl=0" target="_blank">
+    View Whitepaper (PDF)
+  </a>
+</body>
+</html>
